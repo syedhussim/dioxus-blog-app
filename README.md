@@ -7,4 +7,4 @@ This is an updated verion that includes an image upload with the blog post.
 Run the Axum server first (caro run)
 Then run the Dioxus app (dx serve)
 
-![](/screenshot/image.png?raw=true|width=300)
+![](/screenshot/image.png?raw=true)
